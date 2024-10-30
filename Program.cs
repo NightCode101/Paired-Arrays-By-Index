@@ -35,8 +35,8 @@ namespace Paired_Arrays_By_Index
 
             // This is your data
             string[] emails = { "Jeylo@gmail.com" /* Index 0 */,
-                                "namemo@gmail.com" /* Index 2 */,
-                                "nameniya@gmail.com" /* Index 3 */};
+                                "namemo@gmail.com" /* Index 1 */,
+                                "nameniya@gmail.com" /* Index 2 */};
 
             string[] usernames = { "Jeylo" /* Index 0 */,
                                    "Name Mo" /* Index 1 */,
