@@ -56,6 +56,9 @@ namespace Paired_Arrays_By_Index
             Console.WriteLine("Email    :" + emails[index]);
             Console.WriteLine("Username :" + usernames[index]);
             Console.WriteLine("Password :" + passwords[index]);
+
+            // Always add this line to any of your codes
+            Console.ReadLine();
         }
     }
 }
